@@ -32,72 +32,112 @@
   ],
   "downloads": {
     "xmb10nfc": {
-      "version": "0.1.0",
-      "file_name": "downloads/cn.galgaoshou.qihe.release.0.1.0.rpk"
+      "version": "1.2",
+      "file_name": "downloads/环10.rpk"
     },
     "xmb10": {
-      "version": "0.1.0",
-      "file_name": "downloads/cn.galgaoshou.qihe.release.0.1.0.rpk"
+      "version": "1.2",
+      "file_name": "downloads/环10.rpk"
     },
     "xmb10p": {
-      "version": "0.1.0",
-      "file_name": "downloads/cn.galgaoshou.qihe.release.0.1.0（10pro）.rpk"
+      "version": "1.2",
+      "file_name": "downloads/环10PRO.rpk"
     },
     "xmb9": {
-      "version": "0.1.0",
-      "file_name": "downloads/cn.galgaoshou.qihe.release.0.1.0（10）.rpk"
+      "version": "1.2",
+      "file_name": "downloads/环9.rpk"
     },
     "xmb9p": {
-      "version": "1.1",
-      "file_name": "downloads/cn.galgaoshou.qihe.release.1.0.rpk"
+      "version": "1.2",
+      "file_name": "downloads/环9PRO.rpk"
     },
     "xmrw6": {
-      "version": "1.0",
-      "file_name": "downloads/cn.galgaoshou.qihe.release.1.0.rpk"
+      "version": "1.2",
+      "file_name": "downloads/红米6-5.rpk"
     },
     "xmrw5xring": {
-      "version": "1.0",
-      "file_name": "downloads/cn.galgaoshou.qihe.release.1.0.rpk"
+      "version": "1.2",
+      "file_name": "downloads/红米6-5.rpk"
     },
     "xmrw5": {
-      "version": "1.0",
-      "file_name": "downloads/cn.galgaoshou.qihe.release.1.0.rpk"
+      "version": "1.2",
+      "file_name": "downloads/红米6-5.rpk"
+    },
+    "xmws3": {
+      "version": "1.2",
+      "file_name": "downloads/手表S3.rpk"
+    },
+    "xmws4xring": {
+      "version": "1.2",
+      "file_name": "downloads/手表S4.rpk"
+    },
+    "xmws441": {
+      "version": "1.2",
+      "file_name": "downloads/手表S4.rpk"
+    },
+    "xmws4": {
+      "version": "1.2",
+      "file_name": "downloads/手表S4.rpk"
+    },
+    "xmws5": {
+      "version": "1.2",
+      "file_name": "downloads/手表S5.rpk"
     }
   },
   "ext": {
     "enableAstroBoxCreatorFeatures": true,
     "trialDownloads": {
       "xmb10nfc": {
-        "version": "0.1.0",
-        "file_name": "downloads/trial/cn.galgaoshou.qihe.release.0.1.0(shi).rpk"
+        "version": "1.2",
+        "file_name": "downloads/trial/环10试玩版.rpk"
       },
       "xmb10": {
-        "version": "0.1.0",
-        "file_name": "downloads/trial/cn.galgaoshou.qihe.release.0.1.0(shi).rpk"
+        "version": "1.2",
+        "file_name": "downloads/trial/环10试玩版.rpk"
       },
       "xmb10p": {
-        "version": "0.1.0",
-        "file_name": "downloads/trial/cn.galgaoshou.qihe.release.0.1.0.rpk"
+        "version": "1.2",
+        "file_name": "downloads/trial/环10PRO试玩版.rpk"
       },
       "xmb9": {
-        "version": "0.1.0",
-        "file_name": "downloads/trial/cn.galgaoshou.qihe.release.0.1.0(shi).rpk"
+        "version": "1.2",
+        "file_name": "downloads/trial/环9试玩版.rpk"
       },
       "xmb9p": {
-        "version": "1.1",
-        "file_name": "downloads/trial/cn.galgaoshou.qihe.release.1.0.rpk"
+        "version": "1.2",
+        "file_name": "downloads/trial/环9PRO试玩版.rpk"
       },
       "xmrw6": {
-        "version": "1.0",
-        "file_name": "downloads/trial/cn.galgaoshou.qihe.debug.1.0.rpk"
+        "version": "1.2",
+        "file_name": "downloads/trial/红米6-5试玩版.rpk"
       },
       "xmrw5xring": {
-        "version": "1.0",
-        "file_name": "downloads/trial/cn.galgaoshou.qihe.debug.1.0.rpk"
+        "version": "1.2",
+        "file_name": "downloads/trial/红米6-5试玩版.rpk"
       },
       "xmrw5": {
-        "version": "1.0",
-        "file_name": "downloads/trial/cn.galgaoshou.qihe.debug.1.0.rpk"
+        "version": "1.2",
+        "file_name": "downloads/trial/红米6-5试玩版.rpk"
+      },
+      "xmws3": {
+        "version": "1.2",
+        "file_name": "downloads/trial/手表S3试玩版.rpk"
+      },
+      "xmws4xring": {
+        "version": "1.2",
+        "file_name": "downloads/trial/手表S4试玩版.rpk"
+      },
+      "xmws441": {
+        "version": "1.2",
+        "file_name": "downloads/trial/手表S4试玩版.rpk"
+      },
+      "xmws5": {
+        "version": "1.2",
+        "file_name": "downloads/trial/手表S5试玩版.rpk"
+      },
+      "xmws4": {
+        "version": "1.2",
+        "file_name": "downloads/trial/手表S4试玩版.rpk"
       }
     }
   }
