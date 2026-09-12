@@ -37,56 +37,69 @@
   ],
   "downloads": {
     "xmb10nfc": {
-      "version": "1.2",
-      "file_name": "downloads/环10.rpk"
+      "version": "1.4",
+      "file_name": "downloads/环10-xmb10nfc.rpk",
+      "versionCode": 55
     },
     "xmb10": {
-      "version": "1.2",
-      "file_name": "downloads/环10.rpk"
+      "version": "1.4",
+      "file_name": "downloads/环10-xmb10.rpk",
+      "versionCode": 55
     },
     "xmb10p": {
-      "version": "1.2",
-      "file_name": "downloads/环10PRO.rpk"
+      "version": "1.4",
+      "file_name": "downloads/环10PRO-xmb10p.rpk",
+      "versionCode": 74
     },
     "xmb9": {
-      "version": "1.2",
-      "file_name": "downloads/环9.rpk"
+      "version": "1.4",
+      "file_name": "downloads/环9-xmb9.rpk",
+      "versionCode": 55
     },
     "xmb9p": {
-      "version": "1.2",
-      "file_name": "downloads/环9PRO.rpk"
+      "version": "1.4",
+      "file_name": "downloads/环9PRO-xmb9p.rpk",
+      "versionCode": 72
     },
     "xmrw6": {
-      "version": "1.2",
-      "file_name": "downloads/红米6-5.rpk"
+      "version": "1.4",
+      "file_name": "downloads/红米6-5-xmrw6.rpk",
+      "versionCode": 72
     },
     "xmrw5xring": {
-      "version": "1.2",
-      "file_name": "downloads/红米6-5.rpk"
+      "version": "1.4",
+      "file_name": "downloads/红米6-5-xmrw5xring.rpk",
+      "versionCode": 72
     },
     "xmrw5": {
-      "version": "1.2",
-      "file_name": "downloads/红米6-5.rpk"
+      "version": "1.4",
+      "file_name": "downloads/红米6-5-xmrw5.rpk",
+      "versionCode": 72
     },
     "xmws3": {
-      "version": "1.2",
-      "file_name": "downloads/手表S3.rpk"
+      "version": "1.4",
+      "file_name": "downloads/手表S3-xmws3.rpk",
+      "versionCode": 3
     },
     "xmws4xring": {
-      "version": "1.2",
-      "file_name": "downloads/手表S4.rpk"
+      "version": "1.4",
+      "file_name": "downloads/手表S4-xmws4xring.rpk",
+      "versionCode": 3
     },
     "xmws441": {
-      "version": "1.2",
-      "file_name": "downloads/手表S4.rpk"
+      "version": "1.4",
+      "file_name": "downloads/手表S4-xmws441.rpk",
+      "versionCode": 3
     },
     "xmws4": {
-      "version": "1.2",
-      "file_name": "downloads/手表S4.rpk"
+      "version": "1.4",
+      "file_name": "downloads/手表S4-xmws4.rpk",
+      "versionCode": 3
     },
     "xmws5": {
-      "version": "1.2",
-      "file_name": "downloads/手表S5.rpk"
+      "version": "1.4",
+      "file_name": "downloads/手表S5-xmws5.rpk",
+      "versionCode": 3
     }
   },
   "ext": {
